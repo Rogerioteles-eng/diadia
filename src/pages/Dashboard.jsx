@@ -1,0 +1,1 @@
+const Dashboard = () => <h2>Dashboard - visão geral</h2>; export default Dashboard;
